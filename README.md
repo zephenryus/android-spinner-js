@@ -1,4 +1,4 @@
-android-spinner-js
-==================
+### Android Loading Spinner
 
-jQuery plugin to add a canvas based Android 4 style spinner.
+A jQuery plugin to add an Android Holo themed loading spinner for ajax requests.
+
