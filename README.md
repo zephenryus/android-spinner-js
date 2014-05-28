@@ -6,6 +6,10 @@ A jQuery plugin to add an Android Holo themed loading spinner for ajax requests.
 
 **Note:** at larger sizes the loader starts to degrade visually.
 
+## Demo
+
+[Ajax Loader](http://kevinleejensen.com/android-spinner.html)
+
 ## Description
 
 ```javascript
